@@ -1,0 +1,15 @@
+{
+  "home_page": "होम पेज",
+  "personal_info": "पर्सनअल इन्फर्मेसन",
+  "name": "नाम ",
+  "name_hint": "आफ्नो नाम लेख्नुहोस् ",
+  "email": "ईमेल ",
+  "email_hint": "आफ्नो ईमेल लेख्नुहोस् ",
+  "date_of_birth": "जन्ममीती",
+  "required_field": "सबै कुराहरु भर्नुहोस् ",
+  "submit_info": "सुब्मित इन्फो",
+  "about_us": "अबोउत उस",
+  "settings": "सेत्तीनग्स",
+  "change_language": "चेन्ज ल्यांगवेज",
+  "about": "अबोउत अप्प"
+}
